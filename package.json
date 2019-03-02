@@ -1,6 +1,6 @@
 {
-  "name": "analytics-js-server-integration-sailthru",
-  "version": "1.0.0",
+  "name": "@astronomerio/integration-sailthru",
+  "version": "1.0.1",
   "description": "analytics.js to Sailthru server side integration",
   "main": "lib/index.js",
   "scripts": {
