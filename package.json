@@ -13,6 +13,7 @@
   "dependencies": {
     "async": "^2.6.1",
     "axios": "^0.18.0",
+    "flat": "^4.1.0",
     "google-spreadsheet": "^2.0.7",
     "json-stringify-safe": "^5.0.1",
     "lodash": "^4.17.11",
