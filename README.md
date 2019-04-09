@@ -1,2 +1,7 @@
-## THIS REPO HAS BEEN DEPRECTATED
-- See: https://github.com/astronomer-integrations/integration-sailthru
+## MetaRouter to Sailthru Server-Side Integration
+### `integration-sailthru`
+
+---
+
+## License
+ © [MetaRouter](https://gitlab.com/metarouter/)
